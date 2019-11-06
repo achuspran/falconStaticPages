@@ -1,0 +1,43 @@
+passport: {
+    'name': 'Harry Smith',
+    'dob': 29/11/1990',
+    'address': '48 Boston St., Sterling Heights, MI 48310',
+    'passportNo': 'J1P2R3A4',
+    'issuedBy': 'United States Department of State',
+    'issuedOn': '18/01/2012',
+    'expiryDate': '17/01/2022',
+    'nationality': 'United States of America',
+    'countryCode': 'USA',
+    'type': 'P',
+    'placeOfIssue': 'Milwaukee',
+    'gender': 'male',
+    'birthPlace': 'Milwaukee',
+    'fathersName': 'John Smith',
+    'mothersName': 'Clara Smith',
+    'fileNo': 'AJPRJ1P2R3A4'
+}
+
+
+employmentProof: {
+    'employeeName': 'Harry Smith',
+    'employer': 'GE Mortors',
+    'officeAddress': '2nd Floor, Tower Warp, 123 Main St, Milwaukee 39216-1234'
+    'annualSalary': '$5000',
+    'designation': 'Software Engineer Senior',
+    'dateOfJoining': '26/12/2016',
+}
+
+
+drivingLicenceDetails: {
+    'name': 'Harry Smith',
+    'drivingLicenceNo': 'D08954142',
+    'dob': 29/11/1990',
+    'address': '48 Boston St., Sterling Heights, MI 48310',
+    'issuedOn': '03/01/2016',
+    'expiryDate': '01/01/2039',
+    'gender': 'male',
+}
+
+
+
+
